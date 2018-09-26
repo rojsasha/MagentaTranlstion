@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MagentaTranslation</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_toolbar">Выберите язык</string>
+    <string name="change_language">Выберите язык</string>
+    <string name="my_name">Рожков Александр Викторович</string>
+    <string name="about_me">Я начинающий Android разработчик, в данный момент ищу свою превую работу. Работал с разными API(Facebook, Twitter, AccuWeather). делал приложения с использованием баз данных SQLite, Room, Realm. Работал с Retrofit.</string>
+</resources>
